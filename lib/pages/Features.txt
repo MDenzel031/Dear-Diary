@@ -1,0 +1,9 @@
+*FEATURES THAT HAS NOT BEEN IMPLEMENTED YET*
+1.Change the when the user views another user to direct him to that users profile first
+2.When the user is in the #1 there will be a option to view that users stories
+3.Implement the account setting to be able to change the users password
+4.(OPTIONAL) make a Notification spinner
+5.(OPTIONAL) when browsing a assets it could be an video or image or both
+6.(OPTIONAL) make a tutorial when a newly created user has signIn
+7.(OPTIONAL) Implement a light theme and dark theme
+8.Change the SignIn/SignUp Design (This will be made by my teammates)

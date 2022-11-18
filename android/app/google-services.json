@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21452792432",
+    "project_id": "dear-diary-c7fd4",
+    "storage_bucket": "dear-diary-c7fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21452792432:android:a105144ba3777dbce08ab5",
+        "android_client_info": {
+          "package_name": "com.example.deardiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21452792432-s1lv5ni1hr10tg9r9hp02vsu38m5m80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzoclcEh1X0wM9F_3q-f7LMSL7z8qNvag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21452792432-s1lv5ni1hr10tg9r9hp02vsu38m5m80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
